@@ -8,4 +8,4 @@ To get started::
 
 
 Currently in progress
-Created by `Josh Lassman <fishpoopsoup.com>`_
+Created by `Josh Lassman <http://fishpoopsoup.com>`_
