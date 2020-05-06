@@ -8,5 +8,4 @@ To get started::
 	from carpentry import Table
 
 Currently in progress
-
 Created by `Josh Lassman <http://fishpoopsoup.com>`_
