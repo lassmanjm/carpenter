@@ -4,8 +4,8 @@ carpentry
 
 To get started::
 
-	from carpentry import Table, Array, Matrix
-
+	.. from carpentry import Table, Array, Matrix
+	from carpentry import Table
 
 Currently in progress
 
