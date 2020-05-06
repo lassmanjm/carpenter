@@ -1,11 +1,11 @@
 carpentry
 =========
- Package for constructing Latex tabels and arrays
+ Package for constructing Latex tabels and arrays in IPython environment
 
 To get started::
 
 	from carpentry import Table, Array, Matrix
 
-To get started::
 
-  from carpentry import Table, Array, Matrix
+Currently in progress
+Created by 'Josh Lassman <fishpoopsoup.com>'_
