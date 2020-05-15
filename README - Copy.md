@@ -3,3 +3,5 @@
 
 To get started::
 	from carpentry import Table, Array, Matrix
+
+	Currently in progress
